@@ -1,0 +1,19 @@
+SEVEN-SEGMENT LED DISPLAY 8X
+
+The click displays letters, numbers and symbols in highly readable form. It can be used in any simple interface and combined with other boards. The color of the displayed character is red.
+Seven segment LED displays are very popular for displaying numeric information because they are very attractive and readable from a far distance and wider viewing angle.
+
+Altium Designer Projects
+https://www.altiumdesignerprojects.com
+
+Project Schematic
+https://www.altiumdesignerprojects.com/pdf/display/Seven_Display_8X_E3_4040_Schematic.pdf
+
+Project Adobe Acrobat 3D PDF
+https://www.altiumdesignerprojects.com/pdf/display/Seven_Display_8X_E3_4040_PDF3D.pdf
+
+Buy Altium Designer Files 
+https://www.altiumdesignerprojects.com/product/seven-segment-led-display-8x/
+
+Youtube video
+https://youtu.be/aGOwMlKMuhg
